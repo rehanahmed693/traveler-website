@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* online packages seection*/
+.ul-list li {
+  font-weight: 700;
+  margin-bottom: 20px;
+  list-style: none;
+
+}
+.ul-list li span {
+  font-weight: 400;
+  display: block;
+}
+
